@@ -1,0 +1,5 @@
+{
+  "name": "MerchMocker AI",
+  "description": "Upload your logo and instantly see it on realistic product mockups using Gemini 2.5 Flash Image, or create new designs from scratch with Imagen 4.",
+  "requestFramePermissions": []
+}
